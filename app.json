@@ -11,35 +11,35 @@
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
-      "value": ""
+      "value": "6417177888:AAEmXUdC0aEXgKAtZw4Qa9mjIDvRRbGNH28"
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1250450587"
+      "value": "5843408012"
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
-      "value": ""
+      "value": "24120986"
     },
     "DATABASE_URL": {
       "description": "Paste your mongo db url",
-      "value": "url"
+      "value": "mongodb+srv://Muiz321:muiz9060AHMED@cluster0.8qgha6d.mongodb.net/?retryWrites=true&w=majority"
     },
     "DATABASE_NAME":{
       "description": "Enter your DATABASE_NAME ",
-      "value": "filesharexbot"
+      "value": "Muizfilesharebot"
     },
     "API_HASH":{
       "description": "your api hash, take it from my.telegram.org",
-      "value": ""
+      "value": "db9c07eba1fc8b51ce70c745f54e47f6"
     },
     "CHANNEL_ID":{
       "description": "make a channel (database channel), then make the bot as admin in channel, and it's id",
-      "value": "-100"
+      "value": "-1002059150229"
     },
     "FORCE_SUB_CHANNEL":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
-      "value": "0"
+      "value": "1002059150229"
     },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
@@ -51,12 +51,12 @@
     },
     "ADMINS": {
       "description": "A space separated list of user_ids of Admins, they can only create links",
-      "value": "",
+      "value": "True",
       "required": false
     },
     "PROTECT_CONTENT": {
       "description": "Protect contents from getting forwarded",
-      "value": "False",
+      "value": "True",
       "required": false
     }
   },
